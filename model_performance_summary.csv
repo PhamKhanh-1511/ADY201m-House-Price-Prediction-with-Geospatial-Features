@@ -1,0 +1,25 @@
+Học vấn (Education),Thuật toán (Model),MAE,RMSE,R2 Score
+Graduate_School,Linear Regression,2692.39,3330.72,0.9853
+Graduate_School,SVM Regressor,2977.69,3702.74,0.9819
+Graduate_School,XGBoost,3338.03,4185.46,0.9769
+Graduate_School,Random Forest,3504.53,4457.73,0.9737
+Graduate_School,LightGBM,3644.16,4889.74,0.9684
+Graduate_School,KNN Regressor,5385.72,7403.81,0.9276
+High_School,Linear Regression,2278.6,2780.42,0.9881
+High_School,SVM Regressor,2449.47,2917.45,0.9869
+High_School,Random Forest,2732.77,3372.98,0.9824
+High_School,XGBoost,3261.88,4100.0,0.974
+High_School,LightGBM,3598.35,4720.08,0.9656
+High_School,KNN Regressor,4692.14,6546.28,0.9338
+Others,Linear Regression,2286.23,2927.76,0.9887
+Others,SVM Regressor,2439.59,3256.43,0.986
+Others,Random Forest,3301.8,4467.27,0.9737
+Others,XGBoost,3435.33,4887.9,0.9685
+Others,LightGBM,3881.05,5746.5,0.9565
+Others,KNN Regressor,4771.13,6946.85,0.9364
+University,Linear Regression,2426.6,3008.88,0.9865
+University,SVM Regressor,2636.2,3157.39,0.9851
+University,Random Forest,3100.28,3981.17,0.9764
+University,XGBoost,3404.18,4331.93,0.972
+University,LightGBM,3165.29,4980.33,0.963
+University,KNN Regressor,4966.8,7266.3,0.9212
